@@ -287,6 +287,27 @@ export const managers = [
     "philosophy": "Your fantasy team's philosophy",
     "tradingScale": 10,
     "preferredContact": "Sleeper"
+  },
+  {
+    "managerID": "1029282837213585408",
+    "name": "anothershot",
+    "location": "San Diego, CA",
+    "bio": "Lorem ipsum...",
+    "photo": "/managers/question.jpg",
+    "fantasyStart": 2023,
+    "favoriteTeam": "dal",
+    "mode": "Win Now",
+    "rival": {
+      "name": "nhamill4",
+      "link": 8,
+      "image": "/managers/question.jpg"
+    },
+    "favoritePlayer": 7564,
+    "valuePosition": "WR",
+    "rookieOrVets": "Vets",
+    "philosophy": "Your fantasy team's philosophy",
+    "tradingScale": 10,
+    "preferredContact": "Sleeper"
   }
 ];
 
