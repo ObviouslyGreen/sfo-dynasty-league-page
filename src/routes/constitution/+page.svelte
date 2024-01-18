@@ -96,9 +96,8 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">SFO DYNASTY CONSTITUTION (WIP)</h1>
-    <h1 class="noUnderscore">Ignore for now</h1>
-    
+    <h1 class="noUnderscore">SFO DYNASTY CONSTITUTION</h1>
+
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Roster</h3>
