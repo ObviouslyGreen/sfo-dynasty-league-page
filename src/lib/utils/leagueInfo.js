@@ -29,6 +29,7 @@ export const homepageText = `
   <ul>
     <li>Twitter feed integration</li>
     <li>Picked Off Magazine integration</li>
+    <li>Integrate KTC and fantasycalc data / trade calculator</li>
   </ul>
 `;
 
