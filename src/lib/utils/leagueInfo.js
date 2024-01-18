@@ -28,7 +28,7 @@ export const homepageText = `
   <h5>Future Features</h5>
   <ul>
     <li>Twitter feed integration</li>
-    <li>Picked Off Magazine integration</li>
+    <li><a href="https://pickedoffmagazine.com/">Picked Off Magazine</a> integration</li>
     <li>Integrate KTC and fantasycalc data / trade calculator</li>
   </ul>
 `;
