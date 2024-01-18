@@ -24,7 +24,7 @@ export const homepageText = `
   <p>Seabass McTango, the league's oracle and beat reporter, hailing from the legendary McTango football dynasty. His tales of breaking news add a layer of mystique, keeping our community on the edge of their seats, eager for the next revelation.</p>
 
   <p>SFO Dynasty is not a mere fantasy football league; it is a living, breathing epic fueled by the unbridled passion of its members. Each touchdown, each trade, and each victory script another chapter in the unfolding saga – an odyssey where the pursuit of triumph becomes the very essence of our existence. Follow our league, where the thrill of victory is surpassed only by the symphony of camaraderie, and the spirit of competition knows no bounds. In the vast expanse of fantasy football leagues worldwide, SFO Dynasty reigns supreme.</p>
-
+  <img src="/chmapionspackage.jpg" alt="ChampionsPackage">
   <h5>Future Features</h5>
   <ul>
     <li>Twitter feed integration</li>
