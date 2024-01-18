@@ -97,6 +97,29 @@ import { dynasty } from './utils/helper';
             separator: false,
             dynastyOnly: false,
         },
+        {
+            name: "KeepTradeCut",
+            url: "https://keeptradecut.com/",
+            icon: "insights",
+            premium: false,
+            separator: false,
+            dynastyOnly: true,
+        },
+        {
+            name: "Dynasty Daddy",
+            url: "https://dynasty-daddy.com/",
+            icon: "insights",
+            premium: false,
+            separator: false,
+            dynastyOnly: true,
+        },
+        {
+            name: "Reddit Dynasty FF Trade Advice",
+            url: "https://www.reddit.com/r/DynastyFFTradeAdvice/",
+            icon: "assessment",
+            premium: false,
+            separator: true,
+        },
     ];
 </script>
 
