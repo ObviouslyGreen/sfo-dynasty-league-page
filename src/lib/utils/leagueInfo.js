@@ -259,7 +259,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2023,
-    "favoriteTeam": "",
+    "favoriteTeam": "det",
     "mode": "Dynasty",
     "rival": {
       "name": "Everyone",
@@ -280,7 +280,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2023,
-    "favoriteTeam": "",
+    "favoriteTeam": "lar",
     "mode": "Win Now",
     "rival": {
       "name": "Everyone",
