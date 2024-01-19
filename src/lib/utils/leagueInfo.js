@@ -81,21 +81,21 @@ export const managers = [
   {
     "managerID": "730197235672956928",
     "name": "obviouslygreen",
-    "location": "Carlsbad, CA",
-    "bio": "Lorem ipsum...",
-    "photo": "/managers/question.jpg",
+    "location": "ur mom's",
+    "bio": "midwestern coastal elite",
+    "photo": "/managers/poles.png",
     "fantasyStart": 2023,
     "favoriteTeam": "chi",
     "mode": "Rebuild",
     "rival": {
-      "name": "Everyone",
+      "name": "the bear's coaching staff",
       "link": null,
-      "image": "/managers/everyone.png"
+      "image": "/misc/flus.png"
     },
-    "favoritePlayer": 4984,
+    "favoritePlayer": 4666,
     "valuePosition": "QB",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "be water, my friend",
     "tradingScale": 10,
     "preferredContact": "Sleeper"
   },
@@ -125,14 +125,14 @@ export const managers = [
     "name": "jonbonjourvi",
     "location": "Uranus, Milky Way",
     "bio": "'The league's most handsome manager' - Girl from another school, totally",
-    "photo": "vicefinished.jpg",
+    "photo": "/managers/vicefinished.jpg",
     "fantasyStart": 2023,
     "favoriteTeam": "phi",
     "mode": "Win Now",
     "rival": {
       "name": "His own worst enemy",
       "link": 4,
-      "image": "vicefinished.png"
+      "image": "/managers/vicefinished.jpg"
     },
     "favoritePlayer": 7571,
     "valuePosition": "QB",
