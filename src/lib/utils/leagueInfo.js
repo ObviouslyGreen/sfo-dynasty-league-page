@@ -123,23 +123,23 @@ export const managers = [
   {
     "managerID": "867830050538598400",
     "name": "jonbonjourvi",
-    "location": "San Diego, CA",
-    "bio": "Lorem ipsum...",
+    "location": "Uranus, Milky Way",
+    "bio": "'The league's most handsome manager' - Girl from another school, totally",
     "photo": "/managers/question.jpg",
     "fantasyStart": 2023,
     "favoriteTeam": "phi",
     "mode": "Win Now",
     "rival": {
-      "name": "Everyone",
-      "link": null,
+      "name": "His own worst enemy",
+      "link": 4,
       "image": "/managers/everyone.png"
     },
-    "favoritePlayer": 6904,
+    "favoritePlayer": 7571,
     "valuePosition": "QB",
     "rookieOrVets": "Vets",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Flags fly forever... but always rebuilding no cap",
     "tradingScale": 10,
-    "preferredContact": "Sleeper"
+    "preferredContact": "Carrier Pigeon"
   },
   {
     "managerID": "867866820202364928",
