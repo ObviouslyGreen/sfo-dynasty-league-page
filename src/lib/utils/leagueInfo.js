@@ -125,14 +125,14 @@ export const managers = [
     "name": "jonbonjourvi",
     "location": "Uranus, Milky Way",
     "bio": "'The league's most handsome manager' - Girl from another school, totally",
-    "photo": "/managers/question.jpg",
+    "photo": "vicefinished.jpg",
     "fantasyStart": 2023,
     "favoriteTeam": "phi",
     "mode": "Win Now",
     "rival": {
       "name": "His own worst enemy",
       "link": 4,
-      "image": "/managers/everyone.png"
+      "image": "vicefinished.png"
     },
     "favoritePlayer": 7571,
     "valuePosition": "QB",
