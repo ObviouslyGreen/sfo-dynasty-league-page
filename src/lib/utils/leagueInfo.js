@@ -308,6 +308,48 @@ export const managers = [
     "philosophy": "Your fantasy team's philosophy",
     "tradingScale": 10,
     "preferredContact": "Sleeper"
+  },
+  {
+    "managerID": "603676617696403456",
+    "name": "gtaylo8",
+    "location": null,
+    "bio": "Lorem ipsum...",
+    "photo": "/managers/question.jpg",
+    "fantasyStart": null,
+    "favoriteTeam": null,
+    "mode": null,
+    "rival": {
+      "name": "Everyone",
+      "link": null,
+      "image": "/managers/everyone.png"
+    },
+    "favoritePlayer": null,
+    "valuePosition": null,
+    "rookieOrVets": null,
+    "philosophy": null,
+    "tradingScale": null,
+    "preferredContact": "Sleeper"
+  },
+  {
+    "managerID": "1127720002481680384",
+    "name": "stepkabrandon",
+    "location": null,
+    "bio": "Lorem ipsum...",
+    "photo": "/managers/question.jpg",
+    "fantasyStart": null,
+    "favoriteTeam": null,
+    "mode": null,
+    "rival": {
+      "name": "Everyone",
+      "link": null,
+      "image": "/managers/everyone.png"
+    },
+    "favoritePlayer": null,
+    "valuePosition": null,
+    "rookieOrVets": null,
+    "philosophy": null,
+    "tradingScale": null,
+    "preferredContact": "Sleeper"
   }
 ];
 
