@@ -94,7 +94,7 @@ import { dynasty } from './utils/helper';
             url: "https://www.fantasycalc.com/trade-calculator",
             icon: "calculate",
             premium: false,
-            separator: false,
+            separator: true,
             dynastyOnly: false,
         },
         {
@@ -109,6 +109,14 @@ import { dynasty } from './utils/helper';
             name: "Dynasty Daddy",
             url: "https://dynasty-daddy.com/",
             icon: "insights",
+            premium: false,
+            separator: false,
+            dynastyOnly: true,
+        },
+        {
+            name: "Dynasty Dealer Trade Calculator",
+            url: "https://www.dynastydealer.com/trade-calculator/superflex",
+            icon: "calculate",
             premium: false,
             separator: false,
             dynastyOnly: true,
