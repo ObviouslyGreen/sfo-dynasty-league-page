@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1181018946429943808"; // your league ID
+export const leagueID = "1312583962966650880"; // your league ID
 export const leagueName = "SFO Dynasty"; // your league name
 export const dues = 150; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
